@@ -1,0 +1,4 @@
+baseURL = "https://khalid-hussain.github.io/"
+languageCode = "en-us"
+title = "Khalid Hussain"
+theme = "minimo"
